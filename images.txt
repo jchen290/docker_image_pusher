@@ -13,3 +13,4 @@ wxxxcxx/ms-ra-forwarder
 whyour/qinglong
 haroldli/xiaoya-tvbox
 cnk3x/xunlei
+nginx
