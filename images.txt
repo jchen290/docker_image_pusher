@@ -14,3 +14,6 @@ whyour/qinglong
 haroldli/xiaoya-tvbox
 cnk3x/xunlei
 nginx
+youshandefeiyang/allinone
+containrrr/watchtower
+yuexuangu/allinone_format
