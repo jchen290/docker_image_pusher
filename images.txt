@@ -18,3 +18,4 @@ youshandefeiyang/allinone
 containrrr/watchtower
 yuexuangu/allinone_format
 gzxhwq/sing-box
+alexta69/metube
