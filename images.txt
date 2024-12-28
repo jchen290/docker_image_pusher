@@ -19,4 +19,4 @@ containrrr/watchtower
 yuexuangu/allinone_format
 gzxhwq/sing-box
 alexta69/metube
-ailg/g-box
+ailg/g-box:hostmode
