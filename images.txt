@@ -18,5 +18,4 @@ youshandefeiyang/allinone
 containrrr/watchtower
 yuexuangu/allinone_format
 gzxhwq/sing-box
-alexta69/metube
-ailg/g-box:hostmode
+portainer/portainer-ce
