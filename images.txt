@@ -19,3 +19,4 @@ containrrr/watchtower
 yuexuangu/allinone_format
 gzxhwq/sing-box
 portainer/portainer-ce
+doubebly/doube-itv
