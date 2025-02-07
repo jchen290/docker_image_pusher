@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 adguard/adguardhome
-babaohuang/geminiprochat
+#babaohuang/geminiprochat
 corentinth/it-tools
 jellyfin/jellyfin
 irinesistiana/mosdns
@@ -14,11 +14,9 @@ whyour/qinglong
 haroldli/xiaoya-tvbox
 cnk3x/xunlei
 nginx
-youshandefeiyang/allinone
-containrrr/watchtower
-yuexuangu/allinone_format
+#youshandefeiyang/allinone
+#containrrr/watchtower
+#yuexuangu/allinone_format
 gzxhwq/sing-box
 portainer/portainer-ce
 #doubebly/doube-itv
-#dyrnq/open-webui
-ghcr.io/open-webui/open-webui:main
