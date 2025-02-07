@@ -20,3 +20,5 @@ yuexuangu/allinone_format
 gzxhwq/sing-box
 portainer/portainer-ce
 doubebly/doube-itv
+#dyrnq/open-webui
+ghcr.io/open-webui/open-webui:main
