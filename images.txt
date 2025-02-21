@@ -20,3 +20,4 @@ nginx
 gzxhwq/sing-box
 portainer/portainer-ce
 #doubebly/doube-itv
+ghcr.io/bestruirui/subs-check
