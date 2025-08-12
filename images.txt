@@ -21,4 +21,4 @@ portainer/portainer-ce
 #doubebly/doube-itv
 ghcr.io/beck-8/subs-check
 metacubex/mihomo
-ghcr.io/senshinya/moontv:latest
+ghcr.io/lunatechlab/moontv:latest
