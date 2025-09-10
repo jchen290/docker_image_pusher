@@ -22,3 +22,4 @@ portainer/portainer-ce
 ghcr.io/beck-8/subs-check
 metacubex/mihomo
 ghcr.io/lunatechlab/moontv:latest
+mzz2017/v2raya:latest
