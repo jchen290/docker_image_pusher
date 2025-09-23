@@ -10,7 +10,7 @@ corentinth/it-tools
 jellyfin/jellyfin
 irinesistiana/mosdns
 wxxxcxx/ms-ra-forwarder
-whyour/qinglong:debian
+whyour/qinglong:latest
 cnk3x/xunlei
 nginx
 #youshandefeiyang/allinone
