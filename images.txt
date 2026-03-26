@@ -19,7 +19,7 @@ nginx
 gzxhwq/sing-box
 portainer/portainer-ce
 #doubebly/doube-itv
-ghcr.io/beck-8/subs-check
+xream/sub-store
 metacubex/mihomo
 #ghcr.io/lunatechlab/moontv:latest
 #mzz2017/v2raya:latest
