@@ -21,7 +21,7 @@ portainer/portainer-ce
 #doubebly/doube-itv
 xream/sub-store
 metacubex/mihomo
-#ghcr.io/lunatechlab/moontv:latest
+ghcr.io/lunatechlab/moontv:latest
 #mzz2017/v2raya:latest
 ghcr.io/moontechlab/lunatv:latest
 apache/kvrocks
