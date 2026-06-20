@@ -25,3 +25,4 @@ metacubex/mihomo
 #mzz2017/v2raya:latest
 #ghcr.io/moontechlab/lunatv:latest
 #apache/kvrocks
+linuxserver/qbittorrent
