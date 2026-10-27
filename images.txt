@@ -3,9 +3,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
 adguard/adguardhome
-#babaohuang/geminiprochat
 corentinth/it-tools
 jellyfin/jellyfin
 irinesistiana/mosdns
@@ -13,16 +11,5 @@ wxxxcxx/ms-ra-forwarder
 whyour/qinglong:latest
 cnk3x/xunlei
 nginx
-#youshandefeiyang/allinone
-#containrrr/watchtower
-#yuexuangu/allinone_format
-#gzxhwq/sing-box
 portainer/portainer-ce
-#doubebly/doube-itv
-#xream/sub-store
 metacubex/mihomo
-#ghcr.io/lunatechlab/moontv:latest
-#mzz2017/v2raya:latest
-#ghcr.io/moontechlab/lunatv:latest
-#apache/kvrocks
-linuxserver/qbittorrent
