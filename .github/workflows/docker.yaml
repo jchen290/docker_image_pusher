@@ -31,10 +31,10 @@ jobs:
     - name: Free Disk Space
       uses: jlumbroso/free-disk-space@main
       with:
-        tool-cache: true
+        preinstalled-runtimes: true   # 原名 tool-cache，新名更准确：清除预装的 Node/Go/Python 等运行时缓存
         large-packages: true
         docker-images: true
-        swap-storage: true
+        swap-storage: true            # 注意：新版默认已改为 false，你显式设为 true 是正确做法
 
     # 关键：彻底清空 containerd 与 docker 数据目录，确保 tmpmounts 所在分区有空间
     - name: Clean containerd & docker caches
